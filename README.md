@@ -25,7 +25,6 @@ RegisterNumber:
 */
 
 
-```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -54,6 +53,9 @@ plt.ylabel('Y')
 plt.title('Univariate Linear Regression using Least Squares')
 plt.legend()
 plt.show()
+
+```
+
 
 ## Output:
 ![best fit line](sam.png)
